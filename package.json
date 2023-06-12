@@ -1,0 +1,16 @@
+{
+  "name": "custom-cssframework",
+  "version": "1.0.0",
+  "description": "## Bulma Bulma is a lightweight CSS framework that emphasizes simplicity and modularity. It offers a responsive grid system, modern UI components, and a flexible set of utility classes. Bulma is known for its intuitive class naming conventions and easy customization options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.63.3"
+  }
+}
